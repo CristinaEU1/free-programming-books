@@ -37,7 +37,8 @@
 ### Scratch
 
 * [Informatica Creativa](http://scratched.gse.harvard.edu/resources/informatica-creativa-0)
-
+* [Introducere în Scratch. Primii pași în programare] (https://family.matei-tm.eu/download/CarteScratch.pdf)
+ (PDF)
 
 ### Javascript
 
